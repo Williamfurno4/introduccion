@@ -12,6 +12,9 @@
        y ingresar texto :) 
     */
 
+    // git      \/ apache    \/ visual sc \/ php
+    control      I  servidor I  editor     I   lenguaje
+    de versiones I  local    I             I
 
     echo <<<END
     en un mundo conectado,
